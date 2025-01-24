@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-tgenv [![Build](https://github.com/carlduevel/asdf-tgenv/actions/workflows/build.yml/badge.svg)](https://github.com/carlduevel/asdf-tgenv/actions/workflows/build.yml) [![Lint](https://github.com/carlduevel/asdf-tgenv/actions/workflows/lint.yml/badge.svg)](https://github.com/carlduevel/asdf-tgenv/actions/workflows/lint.yml)
+# asdf-tgenv [![Build](https://github.com/4ng31/asdf-tgenv/actions/workflows/build.yml/badge.svg)](https://github.com/4ng31/asdf-tgenv/actions/workflows/build.yml) [![Lint](https://github.com/4ng31/asdf-tgenv/actions/workflows/lint.yml/badge.svg)](https://github.com/4ng31/asdf-tgenv/actions/workflows/lint.yml)
 
 
 [tgenv](https://github.com/4ng31/asdf-tgenv.git) plugin for the [asdf version manager](https://asdf-vm.com).
@@ -8,7 +8,6 @@
 </div>
 
 # BASED ON THE [asdf-tfenv plugin](https://github.com/carlduevel/asdf-tgenv)!
- 
 
 # Contents
 
@@ -64,4 +63,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Carl Düvel](https://github.com/carlduevel/)
+See [LICENSE](LICENSE) © [Angel Cancio](https://github.com/4ng31/)
